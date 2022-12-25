@@ -1,4 +1,4 @@
 # TimeSeriesKmeans_Clustering
 
-In this repo we will use the `tslearn` library to cluster time series (stocks) from the NDX100.
+In this notebook we will use the K-means clustering method for grouping stocks from the NDX100. We will divide the stocks into distinct groups based on volatility, skewness and kurtosis of stock returns.
  
